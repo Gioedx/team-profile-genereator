@@ -15,6 +15,8 @@ const render = require("./src/page-template.js");
 
 let team = [];
 // Manager's detail
+
+
 let managerDetails = [
   {
     type: 'input',
